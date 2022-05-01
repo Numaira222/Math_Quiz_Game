@@ -1,0 +1,38 @@
+#output
+{
+background: rgb(247, 241, 246);
+border-radius: 10px;
+border-top: 10px solid #AA4465;
+padding: 10px;
+float: none;
+text-align: left;
+}
+
+body
+{
+	background-image:url("https://files.123freevectors.com/wp-content/original/206107-beige-blue-and-pink-numbers-background-graphic.jpg");
+    background-repeat: no-repeat; 
+    background-size: cover;
+}
+
+
+
+
+#player1_name , #player2_name
+{
+	display: inline-block;
+	margin-left: 20px;
+}
+
+#number1
+{
+	width: 60%;
+}
+#number2
+{
+	width: 60%;
+}
+#send{
+    margin-top: 20px;
+	background: linear-gradient(to right, #ffcc66 0%, #ff99cc 100%);
+  }

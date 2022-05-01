@@ -1,0 +1,45 @@
+html, body
+{
+  height: 100;
+  margin: 0;
+}
+
+body
+{
+    background-image:url("https://i.pinimg.com/564x/96/6e/e7/966ee7ccd1aa3873d6e4670b9d8d1c24.jpg");
+    background-repeat: no-repeat; 
+    background-size: cover;
+    
+    
+  }
+
+#login_button
+{
+margin-top:15px;
+  }
+
+  #division
+{
+margin-left:525px;
+margin-top: 60px;
+
+}
+  
+  #head_{
+    margin-right: 200px;
+  }
+  #login_button{
+    background: linear-gradient(to top right, #ffff00 0%, #ff9933 100%);
+  }
+  h1{
+    font-size: 40px;
+    line-height: initial;
+    font-family: "Ephesis script=latin rev=1";
+    font-weight: 400;
+    font-style: normal;
+  }
+
+
+
+  
+  
